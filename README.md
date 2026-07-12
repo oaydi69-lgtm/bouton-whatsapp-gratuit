@@ -6,7 +6,7 @@ Open `index.html` to see the button in bottom right
 ---
 
 ## 🎯 Démo
-![Démo du bouton](demo.png)
+![Démo du bouton](Screenshot_20260712-104858_1.)
 
 ## ⚡ Comment l'utiliser
 1. Téléchargez le fichier `index.html`
